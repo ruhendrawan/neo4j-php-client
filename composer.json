@@ -27,12 +27,14 @@
       "graphaware/neo4j-common": "^3.4",
       "symfony/event-dispatcher": "^4.0 || ^5.0",
       "myclabs/php-enum": "^1.4",
-      "php-http/httplug": "^1.0",
+
+      "php-http/httplug": "^2.0",
       "php-http/message-factory": "^1.0",
-      "php-http/client-common": "^1.0",
+      "php-http/client-common": "^2.0",
       "php-http/discovery": "^1.0",
       "php-http/message": "^1.0",
-      "php-http/guzzle6-adapter": "^1.0",
+      "php-http/guzzle7-adapter": "^0.2.0@dev || ^1.0",
+      
       "plumtreesystems/neo4j-bolt": "^4.0"
     },
     "require-dev": {
